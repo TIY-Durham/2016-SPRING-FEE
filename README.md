@@ -4,7 +4,7 @@ Congratulations on being selected for the Spring 2016 cohort of The Iron Yard, a
 
 ### About the Class
 
-If you're the type who wants to know where you're going before you leave, then likely you'll want to [read the syllabus first](//github.com/TIY-Durham/wiki/Syllabus), which lays out the basic roadmap of the class. Details are intentionally withheld, as the pacing of the class and material is very dependent on you, the students.
+If you're the type who wants to know where you're going before you leave, then likely you'll want to [read the syllabus first](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Syllabus), which lays out the basic roadmap of the class. Details are intentionally withheld, as the pacing of the class and material is very dependent on you, the students.
 
 Here's a cold reality many of you already realize from your own experience: _it's very difficult to learn a technical skill like programming from just watching videos and answering questions_. There's an additional reality: _it's also very difficult in a short amount of time_. Wait, what? Isn't that what you're coming to us for? Well... Yes, but no.
 
