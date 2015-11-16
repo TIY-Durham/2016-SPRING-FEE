@@ -12,7 +12,7 @@ Learning -- the productive acquisition of practicable skill -- comes slowly in f
 
 #### I assume that you already know...
 
-* **...how to use your Mac.** -- You can easily find files, navigate through folders, delete things, install and open programs, and perform the appropriate actions with those programs. If this does _not_ describe you, [start with "Back to Basics"](wiki/Back-to-Basics).
+* **...how to use your Mac.** -- You can easily find files, navigate through folders, delete things, install and open programs, and perform the appropriate actions with those programs. If this does _not_ describe you, [start with "Back to Basics"](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics).
 * **...how to use a browser (like Google Chrome).** -- You can navigate through web pages and sites, perform searches with Google or similar, and fill out forms on the internet. How else did you apply for this class, after all?
 * **...how to perform meaningful, productive research.** -- Given a topic that you're unfamiliar with, you can use your favorite search engine, library, or network of peers to discover accurate information about the topic. You may even be able to perform meta-research -- _research about research_ -- on a topic to find out what others are looking for and discover the validity of your own questions.
 * **...how to enumerate the steps of a problem and solution.** -- Presented with a problem, you can -- to various degrees of detail and success -- generate a list of steps that describe the problem and several potential solutions. If you gave those steps to another reasonable person, that person could probably follow them to fulfill the solution.
