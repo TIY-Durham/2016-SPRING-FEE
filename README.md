@@ -29,4 +29,4 @@ As a first step, [complete our prep-work assignment: `00 -- Ready Player One`](0
 
 ### The Day-to-Day
 
-Once the course begins, you'll use a similar process to submit assignments and demonstrate progress. Each assignment will be delivered as a `README.md` file in the appropriately numbered folder, and any code that we produce together in class will be in that folder alongside it. You'll be responsible for [opening an Issue in _this_ repo](issues/new) and including links to your work for review. For details about that process, see [`About Assignments` in the wiki](wiki/About-Assignments).
+Once the course begins, you'll use a similar process to submit assignments and demonstrate progress. Each assignment will be delivered as a `README.md` file in the appropriately numbered folder, and any code that we produce together in class will be in that folder alongside it. You'll be responsible for [opening an Issue in _this_ repo](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new) and including links to your work for review. For details about that process, see [`About Assignments` in the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/About-Assignments).
