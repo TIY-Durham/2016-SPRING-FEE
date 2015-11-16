@@ -1,30 +1,95 @@
 # 00 -- Ready Player One
 
-## Back to Basics (Optional)
+Like we said in [the introduction](../README.md), _learning a technical skill from watching videos and answering questions is very difficult_. The initial inertia of new [Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), however, is only overcome through _repeated exposure_. To that end, many of these pre-class activities are _exercises_ and are best applied in a regimen: spend an hour or more a day getting as far through each of them as you can, starting over from the beginning each time until you can fly through to a certain point.
 
-If you're brand new to the Mac, you're probably already getting a bit confused by the differences in conventions and crazy symbols. _Don't Panic!_ There's [a great support article on Apple.com called _Mac Basics_](https://www.apple.com/support/macbasics/) to get you started. Regardless of how good you think you are at typing, a lot of the mistakes you make at first will be simple typographic errors. If you _don't_ know how to touch type (i.e. without looking at the keyboard), start practicing _now_ with http://www.keybr.com/. If you're fairly confident in your typing ability, try working through the JavaScript lessons on http://typing.io
+_If you're new to Mac, not a typist, or just always wondered what the internet was made of, [start with the "Back to Basics" page](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics) in [the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki)._
 
-## GitHubbing to Know You
+### Activities: Once is enough...
 
-If you haven't already, [create a GitHub account](http://github.com/signup) (or use your existing one) and [edit your GitHub profile](https://github.com/settings/profile). Add a _recent, clear picture_ so we can recognize your face, _your full name_ so we can recognize your name, _a valid public email address_ so we can contact you. _Star the class project_, if you haven't already, and read through [the wiki](../wiki)...
+These activities, however, are more like "won and done" events. They might take a while to accomplish, but re-doing them doesn't really have any value. Just follow the instructions and get to the finish line.
 
-### You've Got Issues
+* [You've Got Issues](#youve-got-issues), or you will after _this_ activity.
+* [GitHub-ing to Know You](#github-ing-to-know-you) is how we get acquainted.
+* Better than a drunken outdoor music concert, it's your first [InstallFest!](#installfest)
+* And if you wanted a marathon version of that, [install and configure Prezto](#prezto-change-oh) on your computer.
 
-[Create an Issue in the class repo (this one)](https://github.com/TIY-Durham/2015-FALL-FEE/issues/new) and name it `00 -- YOUR NAME`, where `YOUR NAME` is, well... your name. Your real, full name. If you copy and paste the checklist from the **Tasks** sections below into the **Description** of your issue _as is_, you should end up with a bunch of checkboxes thanks to [the way that GitHub interprets text](https://guides.github.com/features/mastering-markdown/). As you complete parts of the assignment, check off the corresponding checkboxes and watch your progress bar fill! Read [Mastering Issues](https://guides.github.com/features/issues/) for more information on creating issues in GitHub.
+### Exercises: Rinse, Lather, Repeat...
 
-_This task list should be complete by the first day of class!_
+> _Princess Buttercup:_ "To think -- all that time it was your cup that was poisoned..."
+>
+> _The Man in Black:_ "They were both poisoned. I spent the last few years building up an immunity to Iocane Powder"
+>
+> -- [The Princess Bride, 1987](http://www.imdb.com/title/tt0093779/)
 
-### Send all my GitHub to you...
+A lot of the skills you're going to acquire are just a little weird, compared to the rest of life. Repeating these exercises is kind of like building an immunity to _The Weirdness_ (of the internet) by inviting it over for dinner... repeatedly... over time.
 
-Finally, if you haven't guessed it yet, GitHub is a tool we'll use very heavily in the class and is highly respected in the industry. Learn all you can about `git` -- the command -- and GitHub! There are [some helpful Guides on GitHub](http://guides.github.com) to help you get started, but start with [Hello World](https://guides.github.com/activities/hello-world/) and [Fork-and-Spoon](https://guides.github.com/activities/forking/)
+* Programming is definitely weird, so...
+  * [Learn the basics of programming](#learn-to-program) before you get into class.
+  * [Learn to build websites](#web-technology), kinda, too.
+* You could also use [some practice with Command Line Fu](#command-line-training)
+* We'll use [`git` and GitHub](#source-control-crash-course) basically every day, too.
+
+----
+
+## You've Got Issues
+
+[Create an Issue in the class repo (this one)](../issues/new) and name it `00 -- YOUR NAME`, where `YOUR NAME` is, y'know... _your name._ As in, your _real name that you want to be called._ If you copy and paste the checklist from the **Tasks** sections below into the **Description** of your issue _as is_, you should end up with a bunch of checkboxes thanks to [the way that GitHub interprets text](https://guides.github.com/features/mastering-markdown/). As you complete parts of the assignment, check off the corresponding checkboxes and [watch your progress bar fill!](../issues) If you're curious, read [the _Mastering Issues_ GitHub Guide](https://guides.github.com/features/issues/) for more information.
+
+_**Important!** This task list should be **complete** by the first day of class!_
+
+Congratulations! This is your first _Work-In-Progress (WIP) Issue_, and you'll create another like it for each Assignment during the course. For more on that process, check out [_About Assignments_ in the class wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/About-Assignments)
+
+## GitHub-ing to Know You
+
+If you haven't already, [create a GitHub account](http://github.com/signup) (or use your existing one) and [edit your GitHub profile](https://github.com/settings/profile). Add a _recent, clear picture_ so we can recognize your face, _your full name_ so we can recognize your name, _a valid public email address_ so we (and employers!) can contact you. _Star the class project_ and read through [the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki). When you're done, answer the following questions in separate comments on your _WIP Issue_:
+
+* Questions...
+
+## INSTALLFEST!
+
+Throughout the course, we'll be using a lot of tools, some of them on day 1. Installing applications and developer tools on your computer will become an essential part of your life as a developer, so let's get some practice. Install the following applications, preferably through the App Store:
+
+_If you're completely new to Mac and still a little fuzzy on installing applications, [head back to basics](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics) to get up to speed first._
+
+* [Google Chrome](http://google.com/chrome)
+* [Atom](http://atom.io)
+* [Dash](http://kapeli.com/dash)
+* [Slack](http://www.slack.com)
+* [SourceTree](https://www.sourcetreeapp.com/)
+
+Run each application and [take a screenshot](https://support.apple.com/en-us/HT201361) of the "About" window. You'll find that under the application name in the menu bar. Attach each image to your _WIP Issue_ in a separate comment.
+
+### Dev Tools are Weird
+
+Next we'll [install some developer tools](INSTALLFEST.md) but using `Terminal.app` instead of the App Store. These steps are a little weirder than normal installations, so follow [the more detailed instructions](INSTALLFEST.md) and come back.
+
+When you're done, run `brew list` in your `Terminal.app` window and make sure you can see all of the tools on the install list. Take a screenshot of that list and attach it to your _WIP Issue_ again.
+
+## Learn to Program
+
+One of the weirdest skills you'll acquire in the course is computer programming, so you'd better get a head start on your immunity to it. We recommend [practicing some basic problems on CodeCademy](https://www.codecademy.com/learn/javascript) to start, then diving into the strange new vocabulary and grammar of JavaScript with [a nice winding road-trip](https://www.codeschool.com/courses/javascript-road-trip-part-1), [in two parts](https://www.codeschool.com/courses/javascript-road-trip-part-2) from [CodeSchool](http://codeschool.com).
+
+## Web Technology
+
+* CSS Practice:
+  * [Treehouse: CSS Basics](https://teamtreehouse.com/library/css-basics)
+  * [Code School: CSS Cross Country](https://www.codeschool.com/courses/css-cross-country)
+  * [Treehouse: Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts)
+* All About HTML:
+  * [Code School: Front-End Foundations](https://www.codeschool.com/courses/front-end-foundations)
+  * [Code School: Front-End Formations](https://www.codeschool.com/courses/front-end-formations)
 
 ## Command Line Training
 
 In this class, we're going to use the Command Line Interface (CLI) _a lot_. Start with [_An Intro to the OS X Command Line_](http://eddywashere.com/blog/an-intro-to-the-os-x-command-line/) and [_Learn the Command Line_ on CodeCademy](https://www.codecademy.com/courses/learn-the-command-line/). If you're looking for more of a challenge, you can try the [_CLI Crash Course_ by Zed Shaw](http://cli.learncodethehardway.org/book/).
 
-## INSTALL ALL THE THINGS!
+### Send all my GitHub to you...
 
-Throughout the course, we'll be using a lot of tools, some of them on day 1. _Please have these installed on your Mac before we get started on Monday!_ If you have trouble, please put a comment on your WIP Issue and notify us via email. _Don't stop!_
+Finally, if you haven't guessed it yet, GitHub is a tool we'll use very heavily in the class and is highly respected in the industry. Learn all you can about `git` -- the command -- and GitHub! There are [some helpful Guides on GitHub](http://guides.github.com) to help you get started, but start with [Hello World](https://guides.github.com/activities/hello-world/) and [Fork-and-Spoon](https://guides.github.com/activities/forking/)
+
+https://www.codecademy.com/learn/learn-git
+https://teamtreehouse.com/library/git-basics
+
 
 ### Prezto Change-oh!
 
@@ -32,7 +97,7 @@ One of the tools we'll frequently use in class is Prezto. To test your Google Fu
 
 ## Take a Moment to Reflect
 
-Please answer the following questions in short essay form. Try to keep each answer between 200-500 words (3-5 paragraphs). Don't worry about grammar or spelling -- use this time to reflect on yourself and your upcoming adventure!  Please submit your answers as a comment on your WIP Issue. 
+Please answer the following questions in short essay form. Try to keep each answer between 200-500 words (3-5 paragraphs). Don't worry about grammar or spelling -- use this time to reflect on yourself and your upcoming adventure!  Please submit your answers as a comment on your WIP Issue.
 
 1. What difficulties do you predict that you will encounter during our course? How have you reacted to similar situations in the past? How do you plan on reacting to these situations during the class?
 1. Which part of the prework did you like the MOST? Which part of the prework did you like the LEAST? If you found any of the prework confusing, please explain.
