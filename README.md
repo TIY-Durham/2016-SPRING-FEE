@@ -1,6 +1,6 @@
 ## Hello and welcome to Front End Engineering!
 
-Congratulations on being selected for the Spring 2016 cohort of The Iron Yard, and welcome to the class. This is an intense program, and [Kelly and I](../wiki/Syllabus#your-instructors) are really looking forward to meeting each of you in person and getting to know you better over the course of the upcoming 12 weeks. We're also really excited about teaching and mentoring you all, seeing what awesome things you'll build and what interesting ways you'll approach the assignments and projects in the class.
+Congratulations on being selected for the Spring 2016 cohort of The Iron Yard, and welcome to the class. This is an intense program, and [Kelly and I](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Syllabus#your-instructors) are really looking forward to meeting each of you in person and getting to know you better over the course of the upcoming 12 weeks. We're also really excited about teaching and mentoring you all, seeing what awesome things you'll build and what interesting ways you'll approach the assignments and projects in the class.
 
 ### About the Class
 
