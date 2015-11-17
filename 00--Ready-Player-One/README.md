@@ -1,6 +1,12 @@
 # 00 -- Ready Player One
 
-Like we said in [the introduction](../README.md), _learning a technical skill from watching videos and answering questions is very difficult_. The initial inertia of new [Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), however, is only overcome through _repeated exposure_. To that end, many of these pre-class activities are _exercises_ and are best applied in a regimen: spend an hour or more a day getting as far through each of them as you can, starting over from the beginning each time until you can fly through to a certain point.
+Like we said in [the introduction](../README.md), _learning a technical skill from watching videos and answering questions is very difficult_. The initial inertia of new [Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), however, is only overcome through _repeated exposure_. To that end, many of these pre-class activities are **Exercises** and are best applied in a regimen: _spend an hour or more a day getting as far through each of them as you can._
+
+The real magic happens when _you start over from the beginning each time_ and watch your progress extend on each pass. _There's a lot of work in here_, and some of you have less time than others. Take as much time as you can afford.
+
+_**Resist the temptation to perfect just one thing!**_
+
+That's not really what the class is like, and you'll cheat yourself in the end. Spend as much time as you can with _everything on the list_.
 
 _**Important!** If you're new to Mac, not a typist, or just always wondered what the internet was made of, [start with "Back to Basics" in the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics)._
 
@@ -8,8 +14,8 @@ _**Important!** If you're new to Mac, not a typist, or just always wondered what
 
 These activities are more like "won and done" events. They might take a while to accomplish, but re-doing them doesn't really have massive value. Just follow the instructions and get to the finish line. If you get stuck or need a re-do, there are instructions included on how to restart.
 
-* [You've Got Issues](#youve-got-issues), or you will after _this_ activity.
-* [GitHub-ing to Know You](#github-ing-to-know-you) is how we get acquainted.
+* [You've Got Issues](#youve-got-issues), or [you will](//github.com/issues) after _this_ activity. _Please don't create duplicate Issues for yourself!_
+* [GitHub-ing to Know You](#github-ing-to-know-you) is how we get acquainted... and how you get to know GitHub!
 * Better than a drunken outdoor music concert, it's your first [InstallFest!](#installfest)
 * And if you wanted a marathon version of that, [install and configure Prezto](#prezto-change-oh) on your computer.
 
@@ -29,11 +35,32 @@ A lot of the skills you're going to acquire are just a little _weird_ compared t
 * You could also use [some practice with Command Line Fu](#command-line-training)
 * We'll use [`git` and GitHub](#source-control-crash-course) basically every day, too.
 
+### Reflection: Best taken daily...
+
+_[Reflection is one of the most important parts of learning.](http://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)_ Take time each day to reflect on what you have learned, what you have struggled with, and what is still completely weird and foreign. _We'll do this together in class in a ritual called a [Standup Meeting](https://en.wikipedia.org/wiki/Stand-up_meeting),_ so you might as well get used to it.
+
+Until then, add a comment to your _WIP Issue_ that enumerates the following _every day_ in a short bulleted list or paragraph:
+
+* What is a **bright bulb** for you today? What do you feel like you _really understand well_ as of now?
+* What is still a **dim bulb** for you? You still don't understand it, but the light is coming on... What has helped you get there?
+* What is still **completely dark** for you, _despite your best efforts?_ What do you _completely not understand_ yet, even though you've tried? What have you done to overcome that?
+
+It's important that you keep up with this journal, even if you don't get _any_ time with your **Activities** or **Exercises**... Your brain is working through those tough problems _even when you're not actively engaged with them._
+
+Now, if you fall off for too many days in a row, your highly pattern-oriented brain will start to de-prioritize them. So keep that in mind. [_Build a streak!_](https://open.buffer.com/build-strong-habits-apps-tools/)
+
+## Extracurricular Activities
+
+There are two books that I suggest you start reading. They're both avaialble in digital format on various devices, and they're both relatively easy reads:
+
+* [_Getting Things Done_ by David Allen](http://j.mp/134jABk) -- The book that spawned [an entire genre of self-help literature](http://gettingthingsdone.com/) and [software tools](http://gettingthingsdone.com/common-tools-software/). The technique is the important part, and it's pretty simple.
+* [_Pragmatic Thinking and Learning_ by Andy Hunt](http://j.mp/1D5nmu8) -- A whirlwind survey of the psychology and neuroscience of learning and skill acquisition from the perspective of a programmer.
+
 ----
 
 ## You've Got Issues
 
-[Create an Issue in the class repo (this one)](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new) and name it `00 -- YOUR NAME`, where `YOUR NAME` is, y'know... _your name._ As in, your _real name that you want to be called._ If you copy and paste the checklist from the **Tasks** sections below into the **Description** of your issue _as is_, you should end up with a bunch of checkboxes thanks to [the way that GitHub interprets text](https://guides.github.com/features/mastering-markdown/). As you complete parts of the assignment, check off the corresponding checkboxes and [watch your progress bar fill!](//github.com/TIY-Durham/2016-SPRING-FEE/issues)
+[Create an Issue in the class repo (this one)](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new) and name it `00 -- YOUR NAME`, where `YOUR NAME` is, y'know... _your name._ As in, your _real name that you want to be called._ If you copy and paste the checklist from [the **Tasks** section below](#tasks) into the **Description** of your issue _as is_, you should end up with a bunch of checkboxes thanks to [the way that GitHub interprets text](https://guides.github.com/features/mastering-markdown/). As you complete parts of the assignment, check off the corresponding checkboxes and [watch your progress bar fill!](//github.com/TIY-Durham/2016-SPRING-FEE/issues)
 
 _**Important!** This task list should be **complete** by the first day of class!_
 
@@ -80,33 +107,59 @@ _Don't skip over the last step!_ Feel free to start over, if you need the practi
 
 ### Prezto Change-oh!
 
-One of the tools we'll frequently use in class is [Prezto](https://github.com/sorin-ionescu/prezto), which makes `Terminal.app` much easier to use.
+One of the tools we'll frequently use in class is [Prezto](https://github.com/sorin-ionescu/prezto), which makes `Terminal.app` much easier to use. Installation isn't as straight-forward as for the _other_ dev tools, and you'll need some of them for this to work, so make sure you've got your dev tools installed before you [follow the step-by-step for Prezto](PREZTO.md). When you're done, _take a screenshot of your `Terminal.app` screen_ and attach it to your _WIP Issue_. It should look like [the example image ]
+
+----
+
+_**Remember:** Perform these exercises regularly in a routine to maximize your effectiveness!_
 
 ## Learn to Program
 
-One of the _weirdest_ skills you'll acquire in the course is computer programming, so you'd better get a head start on your immunity to it. We recommend [practicing some basic problems on CodeCademy](https://www.codecademy.com/learn/javascript) to start, then diving into the strange new vocabulary and grammar of JavaScript with [a nice winding road-trip](https://www.codeschool.com/courses/javascript-road-trip-part-1), [in two parts](https://www.codeschool.com/courses/javascript-road-trip-part-2) from [CodeSchool](http://codeschool.com).
+One of the _weirdest_ skills you'll acquire in the course is computer programming, so you'd better get a head start on your immunity to it. We recommend [practicing some basic problems on CodeCademy](https://www.codecademy.com/learn/javascript) to start, then diving into the strange new vocabulary and grammar of JavaScript with [a nice winding road-trip](https://www.codeschool.com/courses/javascript-road-trip-part-1), [in two parts](https://www.codeschool.com/courses/javascript-road-trip-part-2) with Code School.
 
-## Web Technology
+These aren't the only sources at your disposal, of course. [The Mozilla Developer Network (MDN)](http://developer.mozilla.org) is a treasure trove of useful information... sometimes too much. [The JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) presents a more narrative approach to explaining the language; [the JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) has all the nitty-gritty details about the language and is best used for... well, reference. If you're into nerdy reading, this is it.
 
-* CSS Practice:
-  * [Treehouse: CSS Basics](https://teamtreehouse.com/library/css-basics)
-  * [Code School: CSS Cross Country](https://www.codeschool.com/courses/css-cross-country)
-  * [Treehouse: Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts)
-* All About HTML:
-  * [Code School: Front-End Foundations](https://www.codeschool.com/courses/front-end-foundations)
-  * [Code School: Front-End Formations](https://www.codeschool.com/courses/front-end-formations)
+### Web Technology
+
+There are two other [pillars of web development](https://developer.mozilla.org/en-US/docs/Web) -- well I suppose [there are three](https://en.wikipedia.org/wiki/Server-side_scripting) -- that we'll focus our efforts on HTML, CSS, and JavaScript. Of those three, HTML and CSS are the least weird and the most accessible. With HTML and CSS, the changes you make either work or they don't; there's no complaining. JavaScript is finicky.
+
+#### All about HTML and CSS...
+
+After [a quick introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction), you should work through some challenges that can teach you more than you'll get from just reading. Our friends at [Team Treehouse](http://teamtreehouse.com) have a great [Web Developer track](https://teamtreehouse.com/tracks/front-end-web-development) that includes [a beginner HTML (and CSS) course](https://teamtreehouse.com/library/how-to-make-a-website) to get you started. [_Front-End Foundations_](https://www.codeschool.com/courses/front-end-foundations), [_Front-End Formations_](https://www.codeschool.com/courses/front-end-formations) and [_CSS Cross Country _](https://www.codeschool.com/courses/css-cross-country) from Code School will also get you grounded.
+
+[The authoritative reference for HTML is MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference), of course, and [CSS is similarly well-documented](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference). The [Website Which Will Not Be Named](http://lmgtfy.com/?q=w3schools&l=1) gets better [Google Juice](http://c2.com/cgi/wiki?GoogleJuice), but MDN is regularly more accurate and exhaustive. Besides, [there's a saying among developers](https://www.google.com/search?q=%22friends+don%27t+let+friends+use+w3schools%22)... Keep in mind: <abbrev title="Your Mileage May Vary">YMMV</abbrev>
+
+### Practice Makes Perfect
+
+All of these courses give you a project site to build and spoon feed you the steps, fill-in-the-blanks-style, so store the work you do in [CodePen](http://codepen.io) as you go. Login with your [shiny new GitHub account](#github-ing-to-know-you) to save your work. [Code Pen also exports your code to a GitHub Gist](http://blog.codepen.io/documentation/features/exporting-pens/#export-gist), so you can keep revisions around pretty much forever.
+
+_Beware, the finished product they show you may not match your piece-together version._ Try to discover the differences and play around with the results.
 
 ## Command Line Training
 
-In this class, we're going to use the Command Line Interface (CLI) _a lot_. Start with [_An Intro to the OS X Command Line_](http://eddywashere.com/blog/an-intro-to-the-os-x-command-line/) and [_Learn the Command Line_ on CodeCademy](https://www.codecademy.com/courses/learn-the-command-line/). If you're looking for more of a challenge, you can try the [_CLI Crash Course_ by Zed Shaw](http://cli.learncodethehardway.org/book/).
+In this class, we're going to use the Command Line Interface (CLI) _a lot_. Start with [_An Intro to the OS X Command Line_](http://eddywashere.com/blog/an-intro-to-the-os-x-command-line/) and [_Learn the Command Line_ on CodeCademy](https://www.codecademy.com/courses/learn-the-command-line/). This is all leading up to [the _CLI Crash Course_ by Zed Shaw](http://cli.learncodethehardway.org/book/), which isn't as scary as it sounds, just very weird. Unless you have lots of experience with [pre-web internet](https://en.wikipedia.org/wiki/Category:Pre%E2%80%93World_Wide_Web_online_services), you probably didn't do a lot of [typing to tell your computer to do things](https://en.wikipedia.org/wiki/Text-based_user_interface), but it's really quite efficient. [You may need some practice with typing first](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics), but don't save the CLI until you're _really fast at typing_, either. You'll miss out.
 
 ## Source Control Crash Course
 
-Finally, if you haven't guessed it yet, GitHub is a tool we'll use very heavily in the class and is highly respected in the industry. Learn all you can about `git` -- the command -- and GitHub! There are [some helpful Guides on GitHub](http://guides.github.com) to help you get started, but start with [Hello World](https://guides.github.com/activities/hello-world/) and [Fork-and-Spoon](https://guides.github.com/activities/forking/)
+[Source Control](https://en.wikipedia.org/wiki/Source_Code_Control_System) -- and specifically `git` -- is a rather weird concept. GitHub -- a website for sharing code between developers -- is a tool we'll use very heavily in the class and is highly respected in the industry. _Learn all you can about the `git` command and GitHub!_
 
-https://www.codecademy.com/learn/learn-git
-https://teamtreehouse.com/library/git-basics
+It will be _weird!_ It will be _fun!_ It might cause your brain to hurt... Okay, it _will_ cause your brain to hurt! But it will be worth it!
 
+### First there was `git`...
+
+You should start by [trying `git`](http://try.github.com), which isn't really how we'll be using in in class, but kinda gets you over the initial _Weirdness_. After that, [Team Treehouse has a course on `git` basics](https://teamtreehouse.com/library/git-basics), [CodeCademy has an intro course for `git`](https://www.codecademy.com/learn/learn-git) to level up with practice, and [_Git Real_ on Code School](https://www.codeschool.com/courses/git-real) is a good next step.
+
+Throughout the course, we'll be referring you to [Scott Chacon's book _Pro Git_](https://git-scm.com/book/en/v2/), which is available for free on the internet...! This can be a daunting read, so don't kill yourself. _**Remember:** this is just acclimating ourselves to The Weirdness._
+
+### Then there was GitHub...
+
+GitHub is one place that developers [share code with one another](https://guides.github.com/activities/socialize/), [publish personal projects](https://guides.github.com/introduction/getting-your-project-on-github/), and help each other [find and fix bugs](https://guides.github.com/activities/contributing-to-open-source/). All through the magic of `git`...
+
+_[Lots of Open Source projects live on GitHub.](https://github.com/showcases)_
+
+There are [some helpful Guides on GitHub](http://guides.github.com) to help you get started, but start with [Hello World](https://guides.github.com/activities/hello-world/) and [Forking Projects](https://guides.github.com/activities/forking/).
+
+You might notice by now that GitHub does something funny with the text that you write. It's using a simple formatting system called [Markdown](http://daringfireball.net/projects/markdown/), and it adds a little of its own flavor. To learn more about Markdown and how GitHub uses it, check out [_Explaining Markdown_ on Team Treehouse](http://blog.teamtreehouse.com/explaining-markdown) and [_Mastering Markdown_ on in the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Finally, [knowing something about Issues](https://guides.github.com/features/issues/) is also important, since we're using them a lot.
 
 ## Take a Moment to Reflect
 
@@ -114,15 +167,6 @@ Please answer the following questions in short essay form. Try to keep each answ
 
 1. What difficulties do you predict that you will encounter during our course? How have you reacted to similar situations in the past? How do you plan on reacting to these situations during the class?
 1. Which part of the prework did you like the MOST? Which part of the prework did you like the LEAST? If you found any of the prework confusing, please explain.
-
-## Extracurricular Activities
-
-You might notice by now that GitHub does something funny with the text that you write. It's using a simple formatting system called [Markdown](http://daringfireball.net/projects/markdown/), and it adds a little of its own flavor. To learn more about Markdown and how GitHub uses it, check out [_Explaining Markdown_ on Team Treehouse](http://blog.teamtreehouse.com/explaining-markdown) and [_Mastering Markdown_ on in the GitHub Guides](https://guides.github.com/features/mastering-markdown/).
-
-There are two books that I suggest you start reading. They're both avaialble in digital format on various devices, and they're both relatively easy reads:
-
-* [_Getting Things Done_ by David Allen](http://j.mp/134jABk)
-* [_Pragmatic Thinking and Learning_ by Andy Hunt](http://j.mp/1D5nmu8)
 
 ## Tasks
 
