@@ -14,8 +14,9 @@ _**Important!** If you're new to Mac, not a typist, or just always wondered what
 
 These activities are more like "won and done" events. They might take a while to accomplish, but re-doing them doesn't really have massive value. Just follow the instructions and get to the finish line. If you get stuck or need a re-do, there are instructions included on how to restart.
 
-* [You've Got Issues](#youve-got-issues), or [you will](//github.com/issues) after _this_ activity. _Please don't create duplicate Issues for yourself!_
+* First, [a little light reading](#learning-about-learning)... and some writing to warm you up.
 * [GitHub-ing to Know You](#github-ing-to-know-you) is how we get acquainted... and how you get to know GitHub!
+* [You've Got Issues](#youve-got-issues)... well, [you will](//github.com/issues) after _this_. _Please don't create duplicate Issues for yourself!_
 * Better than a drunken outdoor music concert, it's your first [InstallFest!](#installfest)
 * And if you wanted a marathon version of that, [install and configure Prezto](#prezto-change-oh) on your computer.
 
@@ -58,6 +59,22 @@ There are two books that I suggest you start reading. They're both avaialble in 
 
 ----
 
+## Learning about Learning
+
+[_Fixed vs Growth: The Two Basic Mindsets That Shape Our Lives_](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) will start you on a path of discovery about [_Mindset: The New Psychology of Success_ by Dr Carol Dweck](http://amzn.to/1S2KjBu), which is a very hot topic in developmental psychology at the moment.
+
+Knowing a little about [Top-Down vs Bottom-Up Design](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design), specifically [as it relates to software development](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design#Software_development) and [as applied to programming](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design#Programming), along with [Human Learning Styles](https://en.wikipedia.org/wiki/Learning_styles) will help you to identify the way _your_ brain intakes and processes information. Keep in mind that [the "learning style" debate still wages on](http://www.npr.org/sections/health-shots/2011/08/29/139973743/think-youre-an-auditory-or-visual-learner-scientists-say-its-unlikely).
+
+## GitHub-ing to Know You
+
+If you haven't already, [create a GitHub account](http://github.com/signup) (or use your existing one) and [edit your GitHub profile](https://github.com/settings/profile) to include:
+
+* A _recent, clear picture_ so we can recognize your face
+* Your _full name_ so we can recognize your profile
+* _A valid public email address_ so we (and employers!) can contact you.
+
+[_Star the class project_](https://help.github.com/articles/about-stars/) and read through [the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki).
+
 ## You've Got Issues
 
 [Create an Issue in the class repo (this one)](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new) and name it `00 -- YOUR NAME`, where `YOUR NAME` is, y'know... _your name._ As in, your _real name that you want to be called._ If you copy and paste the checklist from [the **Tasks** section below](#tasks) into the **Description** of your issue _as is_, you should end up with a bunch of checkboxes thanks to [the way that GitHub interprets text](https://guides.github.com/features/mastering-markdown/). As you complete parts of the assignment, check off the corresponding checkboxes and [watch your progress bar fill!](//github.com/TIY-Durham/2016-SPRING-FEE/issues)
@@ -66,15 +83,12 @@ _**Important!** This task list should be **complete** by the first day of class!
 
 Congratulations! This is your first _Work-In-Progress (WIP) Issue_, and you'll create another like it for each Assignment during the course. For more on that process, check out [_About Assignments_ in the class wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/About-Assignments), and for more practice with GitHub Issues, read and work through [the "Mastering Issues" GitHub Guide](https://guides.github.com/features/issues/), included in the [_Source Control Crash Course_ section](#source-control-crash-course).
 
-
-## GitHub-ing to Know You
-
-If you haven't already, [create a GitHub account](http://github.com/signup) (or use your existing one) and [edit your GitHub profile](https://github.com/settings/profile). Add a _recent, clear picture_ so we can recognize your face, _your full name_ so we can recognize your name, _a valid public email address_ so we (and employers!) can contact you. [_Star the class project_](https://help.github.com/articles/about-stars/) and read through [the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki). When you're done, answer the following questions in comments on your _WIP Issue_:
+When you're done, answer the following questions in comments on your _WIP Issue_:
 
 * What is the best way to ask a question?
 * How can you explicitly schedule time with your instructor to review a problem?
-* Are there any other times that are appropriate?
-* What are the three possible grades applied to every assignment?
+* Are there any other times that we're available?
+* What are the three possible grades applied to every assignment? What do they mean?
 * What is the link to your GitHub profile? Your profile image?
 * In what week do we plan to review material?
 * At what time does class begin? Is attendance mandatory?
@@ -84,6 +98,9 @@ If you haven't already, [create a GitHub account](http://github.com/signup) (or 
 * What are some strategies you can use to work through a difficult problem?
 * What exactly is the &#8997; key, anyway?
 * What do you think will be the biggest barrier to your success in this class?
+* How can you identify with the Growth and Fixed Mindsets? In what areas do you feel _fixed?_ Where do you see the most potential for _growth?_
+* Do you consider yourself a top-down or bottom-up thinker and why?
+
 
 ## INSTALLFEST!
 
@@ -97,23 +114,33 @@ _If you're completely new to Mac and still a little fuzzy on installing applicat
 * [Slack](http://www.slack.com)
 * [SourceTree](https://www.sourcetreeapp.com/)
 
-Run each application and [take a screenshot](https://support.apple.com/en-us/HT201361) of the "About" window. You'll find that under the application name in the menu bar. Attach each image to your _WIP Issue_ in a separate comment.
+Run each application and [take a screenshot](https://support.apple.com/en-us/HT201361) of the "About" window. You'll find that under the application name in the menu bar. [Attach each image to your _WIP Issue_](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/) in a separate comment.
 
 ### Dev Tools are Weird
 
 Next we'll [install some developer tools](INSTALLFEST.md) but using `Terminal.app` instead of the App Store. These steps are a little weirder than normal installations, so follow [the more detailed instructions](INSTALLFEST.md) and come back.
 
-_Don't skip over the last step!_ Feel free to start over, if you need the practice, but when you're done, run `brew list` in your `Terminal.app` window and make sure you can see all of the tools on the install list. Take a screenshot of that list and attach it to your _WIP Issue_ again.
+_Don't skip over the last step!_
+
+Feel free to start over if you need the practice, but when you're done, run `brew list` in your `Terminal.app` window and make sure you can see all of the tools on the install list. Take a screenshot of that list and attach it to your _WIP Issue_ again.
 
 ### Prezto Change-oh!
 
-One of the tools we'll frequently use in class is [Prezto](https://github.com/sorin-ionescu/prezto), which makes `Terminal.app` much easier to use. Installation isn't as straight-forward as for the _other_ dev tools, and you'll need some of them for this to work, so make sure you've got your dev tools installed before you [follow the step-by-step for Prezto](PREZTO.md). When you're done, _take a screenshot of your `Terminal.app` screen_ and attach it to your _WIP Issue_. It should look like [the example image ]
+One of the tools we'll frequently use in class is [Prezto](https://github.com/sorin-ionescu/prezto), which makes `Terminal.app` much easier to use. Installation isn't as straight-forward as for the _other_ dev tools, and you'll need some of them for this to work, so make sure you've got your dev tools installed before you [follow the step-by-step for Prezto](PREZTO.md).
+
+When you're done, _take a screenshot of your `Terminal.app` screen_ and attach it to your _WIP Issue_. It should look vaguely like this example:
+
+![sorin@krustyroo](https://camo.githubusercontent.com/612c6be742478221e06c64b66b896085f6e4af63/687474703a2f2f692e696d6775722e636f6d2f6e7247563670672e706e67)
+
+Although with only [minimal flair](https://vimeo.com/102830089)...
 
 ----
 
+## Time to [Jazzercise](https://www.youtube.com/watch?v=Tgxvza2yhFw)! Wait, no... Not that.
+
 _**Remember:** Perform these exercises regularly in a routine to maximize your effectiveness!_
 
-## Learn to Program
+### Learn to Program
 
 One of the _weirdest_ skills you'll acquire in the course is computer programming, so you'd better get a head start on your immunity to it. We recommend [practicing some basic problems on CodeCademy](https://www.codecademy.com/learn/javascript) to start, then diving into the strange new vocabulary and grammar of JavaScript with [a nice winding road-trip](https://www.codeschool.com/courses/javascript-road-trip-part-1), [in two parts](https://www.codeschool.com/courses/javascript-road-trip-part-2) with Code School.
 
@@ -135,23 +162,23 @@ All of these courses give you a project site to build and spoon feed you the ste
 
 _Beware, the finished product they show you may not match your piece-together version._ Try to discover the differences and play around with the results.
 
-## Command Line Training
+### Command Line Training
 
 In this class, we're going to use the Command Line Interface (CLI) _a lot_. Start with [_An Intro to the OS X Command Line_](http://eddywashere.com/blog/an-intro-to-the-os-x-command-line/) and [_Learn the Command Line_ on CodeCademy](https://www.codecademy.com/courses/learn-the-command-line/). This is all leading up to [the _CLI Crash Course_ by Zed Shaw](http://cli.learncodethehardway.org/book/), which isn't as scary as it sounds, just very weird. Unless you have lots of experience with [pre-web internet](https://en.wikipedia.org/wiki/Category:Pre%E2%80%93World_Wide_Web_online_services), you probably didn't do a lot of [typing to tell your computer to do things](https://en.wikipedia.org/wiki/Text-based_user_interface), but it's really quite efficient. [You may need some practice with typing first](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics), but don't save the CLI until you're _really fast at typing_, either. You'll miss out.
 
-## Source Control Crash Course
+### Source Control Crash Course
 
 [Source Control](https://en.wikipedia.org/wiki/Source_Code_Control_System) -- and specifically `git` -- is a rather weird concept. GitHub -- a website for sharing code between developers -- is a tool we'll use very heavily in the class and is highly respected in the industry. _Learn all you can about the `git` command and GitHub!_
 
 It will be _weird!_ It will be _fun!_ It might cause your brain to hurt... Okay, it _will_ cause your brain to hurt! But it will be worth it!
 
-### First there was `git`...
+#### First there was `git`...
 
 You should start by [trying `git`](http://try.github.com), which isn't really how we'll be using in in class, but kinda gets you over the initial _Weirdness_. After that, [Team Treehouse has a course on `git` basics](https://teamtreehouse.com/library/git-basics), [CodeCademy has an intro course for `git`](https://www.codecademy.com/learn/learn-git) to level up with practice, and [_Git Real_ on Code School](https://www.codeschool.com/courses/git-real) is a good next step.
 
 Throughout the course, we'll be referring you to [Scott Chacon's book _Pro Git_](https://git-scm.com/book/en/v2/), which is available for free on the internet...! This can be a daunting read, so don't kill yourself. _**Remember:** this is just acclimating ourselves to The Weirdness._
 
-### Then there was GitHub...
+#### Then there was GitHub...
 
 GitHub is one place that developers [share code with one another](https://guides.github.com/activities/socialize/), [publish personal projects](https://guides.github.com/introduction/getting-your-project-on-github/), and help each other [find and fix bugs](https://guides.github.com/activities/contributing-to-open-source/). All through the magic of `git`...
 
@@ -161,12 +188,22 @@ There are [some helpful Guides on GitHub](http://guides.github.com) to help you 
 
 You might notice by now that GitHub does something funny with the text that you write. It's using a simple formatting system called [Markdown](http://daringfireball.net/projects/markdown/), and it adds a little of its own flavor. To learn more about Markdown and how GitHub uses it, check out [_Explaining Markdown_ on Team Treehouse](http://blog.teamtreehouse.com/explaining-markdown) and [_Mastering Markdown_ on in the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Finally, [knowing something about Issues](https://guides.github.com/features/issues/) is also important, since we're using them a lot.
 
-## Take a Moment to Reflect
+----
 
-Please answer the following questions in short essay form. Try to keep each answer between 200-500 words (3-5 paragraphs). Don't worry about grammar or spelling -- use this time to reflect on yourself and your upcoming adventure!  Please submit your answers as a comment on your WIP Issue.
+## Just before you come to class...
+
+![ohai](https://i.chzbgr.com/full/6062171648/hC535AB00/)
+
+Look, you found the secret _hidden_ section!
+
+So you've filled your brain with JavaScript, HTML, CSS, and more GitHub than any person should reasonably have been asked to do. Great.
+
+Please answer the following questions in short essay form. Try to keep each answer to 200-500 words (3-5 paragraphs) and no more. Don't worry about grammar or spelling -- use this time to reflect on yourself and your upcoming adventure!  
+
+Submit your answers as a comment on your _WIP Issue_ or, if you're feeling adventurous, you can [start journaling on directly on GitHub](https://guides.github.com/features/pages/). Either way...
 
 1. What difficulties do you predict that you will encounter during our course? How have you reacted to similar situations in the past? How do you plan on reacting to these situations during the class?
-1. Which part of the prework did you like the MOST? Which part of the prework did you like the LEAST? If you found any of the prework confusing, please explain.
+1. Which part of this Assignment did you like the MOST? Which part did you like the LEAST? What did you find confusing or frustrating?
 
 ## Tasks
 
