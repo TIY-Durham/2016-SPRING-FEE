@@ -85,6 +85,8 @@ Congratulations! This is your first _Work-In-Progress (WIP) Issue_, and you'll c
 
 When you're done, answer the following questions in comments on your _WIP Issue_:
 
+#### 20 questions
+
 * What is the best way to ask a question?
 * How can you explicitly schedule time with your instructor to review a problem?
 * Are there any other times that we're available?
@@ -100,7 +102,7 @@ When you're done, answer the following questions in comments on your _WIP Issue_
 * What do you think will be the biggest barrier to your success in this class?
 * How can you identify with the Growth and Fixed Mindsets? In what areas do you feel _fixed?_ Where do you see the most potential for _growth?_
 * Do you consider yourself a top-down or bottom-up thinker and why?
-
+* What do you think about your "learning style" and the debate about their validity? Which would you categorize yourself as and why?
 
 ## INSTALLFEST!
 
@@ -208,19 +210,49 @@ Submit your answers as a comment on your _WIP Issue_ or, if you're feeling adven
 ## Tasks
 
 ```markdown
+* [ ] **Learning about Learning**
+ * [ ] Read [Fixed vs Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+ * [ ] Read [Top-Down vs Bottom-Up Design](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design)
+ * [ ] Read [Learning Styles](https://en.wikipedia.org/wiki/Learning_styles) and researched more...
+ * [ ] Read [why that is all bunk](http://www.npr.org/sections/health-shots/2011/08/29/139973743/think-youre-an-auditory-or-visual-learner-scientists-say-its-unlikely) and researched more...
 * [ ] **GitHub-ing to Know You**
- * [ ] [Create a GitHub account](https://github.com/signup)
- * [ ] [Edit your GitHub profile](https://github.com/settings/profile) to provide:
+ * [ ] [Created a GitHub account](https://github.com/signup)
+ * [ ] [Edited your GitHub profile](https://github.com/settings/profile) to provide:
   * [ ] A picture, so we can recognize your face.
   * [ ] Your full name, so we can recognize your name.
   * [ ] A valid public email address, so we can contact you.
- * [ ] Find and star [the class project](https://github.com/TIY-Durham/2015-FALL-FEE)
- * [ ] Read [the Home page on the class wiki](https://github.com/TIY-Durham/2015-FALL-FEE/wiki)
+ * [ ] Found and starred [the class project](https://github.com/TIY-Durham/2016-SPRING-FEE)
+ * [ ] Read [the class wiki](https://github.com/TIY-Durham/2016-SPRING-FEE/wiki)
 * [ ] **You've Got Issues**
- * [ ] [Create a new *WIP Issue*](https://github.com/TIY-Durham/2015-FALL-FEE/issues/new)
- * [ ] Name it `00 -- YOUR NAME` (where `YOUR NAME` is _your_ name)
- * [ ] Make this checklist the description
- * [ ] Start checking off boxes... :astonished:
+ * [ ] [Created a new *WIP Issue*](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new)
+ * [ ] Named it `00 -- YOUR NAME` (where `YOUR NAME` is _your_ name)
+ * [ ] Made this checklist the description of your _WIP Issue_
+ * [ ] Started checking off boxes... :astonished:
+ * [ ] Answered _all those many questions_ in comments
+* [ ] **INSTALLFEST!**
+  * [ ] Installed:
+    * [ ] [Google Chrome](http://google.com/chrome)
+    * [ ] [Atom](http://atom.io)
+    * [ ] [Dash](http://kapeli.com/dash)
+    * [ ] [Slack](http://www.slack.com)
+    * [ ] [SourceTree](https://www.sourcetreeapp.com/)
+ * [ ] [Installed Developer Tools](INSTALLFEST.md)
+  * [ ] XCode Tools (CLI)
+  * [ ] Homebrew AKA `brew`
+  * [ ] Via `brew`, installed:
+   * [ ] `zsh`
+   * [ ] `git`
+   * [ ] `hub`
+   * [ ] `node`
+  * [ ] Add the output of the following commands as comments on your *WIP Issue*:
+    * [ ] `which zsh && zsh --version`
+    * [ ] `which git && git --version`
+    * [ ] `which hub && hub --version`
+    * [ ] `which node && node --version`
+* [ ] **Prezto Change-oh!**
+ * [ ] Find and _fork_ the Prezto project on GitHub
+ * [ ] Clone _your fork_ of Prezto into your home directory
+ * [ ] Follow the installation instructions in the `README.md` file
 * [ ] **Send all my GitHub to you...**
  * [ ] Learn all you can about `git` and GitHub!
    * Treehouse has [a Git Basics course](http://teamtreehouse.com/library/git-basics)
@@ -234,31 +266,6 @@ Submit your answers as a comment on your _WIP Issue_ or, if you're feeling adven
   * [ ] Read: http://eddywashere.com/blog/an-intro-to-the-os-x-command-line/
   * [ ] Complete: https://www.codecademy.com/courses/learn-the-command-line/
   * [ ] **BEAST MODE** http://cli.learncodethehardway.org/book/
-* [ ] **INSTALL ALL THE THINGS!**
- * [ ] [Install Homebrew](http://brew.sh) on your Mac
-  * [ ] Open `Terminal.app`; Don't Panic.
-  * [ ] [Install Homebrew and the `brew` command](http://brew.sh/#install)
-  * [ ] Read [the Homebrew Wiki](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme) to learn more about Homebrew
- * [ ] Using the `brew` command, install the following packages:
-   * [ ] `zsh`
-   * [ ] `git`
-   * [ ] `hub`
-   * [ ] `node`
-  * [ ] Add the output of the following commands as comments on your *WIP Issue*:
-    * [ ] `which zsh && zsh --version`
-    * [ ] `which git && git --version`
-    * [ ] `which hub && hub --version`
-    * [ ] `which node && node --version`
-  * [ ] Install the following (bonus if you use `brew`):
-    * [ ] [Google Chrome](http://google.com/chrome)
-    * [ ] [Atom](http://atom.io)
-    * [ ] [Dash](http://kapeli.com/dash)
-    * [ ] [Slack](http://www.slack.com)
-    * [ ] [SourceTree](https://www.sourcetreeapp.com/)
-* [ ] **Prezto Change-oh!**
- * [ ] Find and _fork_ the Prezto project on GitHub
- * [ ] Clone _your fork_ of Prezto into your home directory
- * [ ] Follow the installation instructions in the `README.md` file
 * [ ] **Take a Moment to Reflect**
  * [ ] Answered question 1 in a comment on your WIP Issue.
  * [ ] Answered question 2 in a comment on your WIP Issue.
