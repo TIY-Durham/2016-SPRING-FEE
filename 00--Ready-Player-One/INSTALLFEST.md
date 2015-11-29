@@ -30,7 +30,7 @@ This will _open a separate dialog window_ to ask for your authorization to insta
 
 If you open the **Preferences** pane, by pressing **&#8984;+,** on your keyboard (PS: that works for basically every application on a Mac), you'll see a number of **Profiles** available. These are essentually themes for the base colors in your command line windows. Play around with some of these themes, and select one as the default (there's a button for that). The darker themes are easier on the eyes.
 
-## Step 2: Install Homebrew
+## Step 2: [Install Homebrew](http://brew.sh/#install)
 
 Programming, like wizardry, is full of obscure incantations that we find and use without fully understanding them first. Installing the Homebrew package manager is one of those incantations. [Read up on Homebrew and what it does](https://git.io/brew-docs), but [be sure to install it](http://brew.sh/#install) _only after installing XCode CLI Tools_. Homebrew _needs_ those tools to do its job. They're like prerequisites for a course in college or essential paperwork for a visa application. They're called _dependencies_; you'll find that word in software _a lot_.
 
@@ -59,7 +59,7 @@ So you installed something incorrectly or your copy-pasta missed some characters
 
 Chances are high that you _won't_ encounter difficulty, but if you do, you can [_uninstall Homebrew_](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md#how-do-i-uninstall-homebrew) and start over from there. Once we get Homebrew installed correctly, though, you'll probably _never uninstall and reinstall Homebrew again_. You'll update and upgrade, just like any other application.
 
-### Step 3: Use `brew install`...
+## Step 3: Use `brew install`...
 
 [Like the documentation says](https://git.io/brew-docs), Homebrew is a [**Package Manager**](https://en.m.wikipedia.org/wiki/Package_manager): a program that installs _other_ programs. It's like the App Store for CLI tools. Now that we've got the `brew` command, we can use it to install some _other_ commands that we'll need over the course. Install the following with `brew install`:
 
@@ -69,3 +69,9 @@ Chances are high that you _won't_ encounter difficulty, but if you do, you can [
 * `ruby`
 
 Test that each of these is installed correctly by running `which` on each of them, just like we did for `brew`. You should get ouput that starts with `/usr/local/bin/` and ends with the command name, e.g. `/usr/local/bin/git`. Finally, run `brew list` and [take a screenshot](https://support.apple.com/en-us/HT201361) of the result, which should list all of those _packages_ we just installed. Attach that screenshot to your _WIP Issue_ and you're ready to [install and configure Prezto](PREZTO.md)!
+
+## One Final Warning
+
+Please adhere to these instructions when installing these tools on your Mac. _Please do not install `node` by any other means!_ There are all kinds of instructions and tutorials out there for how to install this software on your Mac, some of which are outdated and don't account for a nice, sane package manager like Homebrew. While it's important to know that _nothing you can do will irrevocably harm your computer_, there are [some trolls on the internet](https://en.m.wikipedia.org/wiki/Internet_troll) who will try to ruin your day with certain evil incantations that will not be repeated here. _Stay on the yellow brick road, Dorothy!_
+
+In general, _you should avoid executing commands that include `sudo`_ until you really [understand what it does](https://en.m.wikipedia.org/wiki/Sudo) and [when to use it](http://www.techrepublic.com/blog/linux-and-open-source/do-you-sudo-learn-the-basics/). That probably won't be you for a while, so avoiding `sudo` is a Good Idea for now.
