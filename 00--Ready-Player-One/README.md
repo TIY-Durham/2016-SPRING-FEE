@@ -20,11 +20,11 @@ _**Important!** If you're new to Mac, not a typist, or just always wondered what
 
 These activities are more like "won and done" events. They might take a while to accomplish, but re-doing them doesn't really have massive value. Just follow the instructions and get to the finish line. If you get stuck or need a re-do, there are instructions included on how to restart.
 
-* First, [learn about learning](#activity-learning-about-learning)... Very meta.
-* [GitHub-ing to Know You](#activity-github-ing-to-know-you) is how we get acquainted... and how you get to know GitHub!
-* [You've Got Issues](#activity-youve-got-issues)... well, [you will](//github.com/issues) after _this_. _Please don't create duplicate Issues for yourself!_
-* Better than a drunken outdoor music concert, it's your first [InstallFest!](#activity-installfest)
-* And if you wanted a marathon version of that, [install and configure Prezto](#activity-prezto-change-oh) on your computer.
+* First, [learn about learning](#1-learning-about-learning)... Very meta.
+* [GitHub-ing to Know You](#2-github-ing-to-know-you) is how we get acquainted... and how you get to know GitHub!
+* [You've Got Issues](#3-youve-got-issues)... well, [you will](//github.com/issues) after _this_. _Please don't create duplicate Issues for yourself!_
+* Better than a drunken outdoor music concert, it's your first [InstallFest!](#4-installfest)
+* And if you wanted a marathon version of that, [install and configure Prezto](#5-prezto-change-oh) on your computer.
 
 ### Exercises: Rinse, Lather, Repeat...
 
@@ -32,46 +32,41 @@ These activities are more like "won and done" events. They might take a while to
 >
 > _The Man in Black:_ "They were both poisoned. I spent the last few years building up an immunity to Iocane Powder"
 >
-> -- [The Princess Bride, 1987](http://www.imdb.com/title/tt0093779/)
+> -- [The Princess Bride](http://www.imdb.com/title/tt0093779/)
 
 A lot of the skills you're going to acquire are just a little _weird_ compared to the rest of life. Repeating these exercises is kind of like building an immunity to _The Weirdness_ (of the internet) by inviting it over for dinner... repeatedly... over time.
 
 * Programming is _definitely_ weird, so...
-  * [Learn the basics of programming](#learn-to-program) before you get into class.
-  * [Learn the basics of building websites](#web-technology), too.
-* You could also use [some practice with Command Line Fu](#command-line-training)
-* We'll use [`git` and GitHub](#source-control-crash-course) basically every day, too.
+  * [Learn the basics of programming](#1-learn-to-program) before you get into class.
+  * [Learn the basics of building websites](#2-web-technology), too.
+* You could also use [some practice with Command Line Fu](#3-command-line-training)
+* We'll use [`git` and GitHub](#4-source-control-crash-course) basically every day, too.
 
-### Reflection: Best taken daily...
+### Reflective Journal: Best taken daily...
 
-_[Reflection is one of the most important parts of learning.](http://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)_ Take time each day to reflect on what you have learned, what you have struggled with, and what is still completely weird and foreign. _We'll do this together in class in a ritual called a [Standup Meeting](https://en.wikipedia.org/wiki/Stand-up_meeting),_ so you might as well get used to it.
+_[Reflection is one of the most important parts of learning.](http://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)_ Take time each day to reflect on what you have learned, what you have struggled with, and what is still completely weird and foreign. _We'll do this together in class in a ritual called a [Standup Meeting](https://en.wikipedia.org/wiki/Stand-up_meeting)._
 
-Until then, add a comment to your _WIP Issue_ that enumerates the following _every day_ in a short bulleted list or paragraph:
+**Add a comment to your _WIP Issue_** that enumerates the following _every day_ in a short bulleted list or paragraph:
 
-* What is a **bright bulb** for you today? What do you feel like you _really understand well_ as of now?
+* What is a **bright bulb** for you today? What do you feel like you _really understand well_ as of now? Explain it a little in your own words.
 * What is still a **dim bulb** for you? You still don't understand it, but the light is coming on... What has helped you get there?
 * What is still **completely dark** for you, _despite your best efforts?_ What do you _completely not understand_ yet, even though you've tried? What have you done to overcome that?
 
-It's important that you keep up with this journal, even if you don't get _any_ time with your **Activities** or **Exercises**... Your brain is working through those tough problems _even when you're not actively engaged with them._
-
-Now, if you fall off for too many days in a row, your highly pattern-oriented brain will start to de-prioritize them. So keep that in mind. [_Build a streak!_](https://open.buffer.com/build-strong-habits-apps-tools/)
-
-## Extracurricular Activities
-
-There are two books that I suggest you start reading. They're both avaialble in digital format on various devices, and they're both relatively easy reads:
-
-* [_Getting Things Done_ by David Allen](http://j.mp/134jABk) -- The book that spawned [an entire genre of self-help literature](http://gettingthingsdone.com/) and [software tools](http://gettingthingsdone.com/common-tools-software/). The technique is the important part, and it's pretty simple.
-* [_Pragmatic Thinking and Learning_ by Andy Hunt](http://j.mp/1D5nmu8) -- A whirlwind survey of the psychology and neuroscience of learning and skill acquisition from the perspective of a programmer.
+It's important that you keep up with this journal, even if you don't get _any_ time with your **Activities** or **Exercises**... Your brain is working through those tough problems _even when you're not actively engaged with them._ Now, if you fall off for too many days in a row, your highly pattern-oriented brain will start to de-prioritize, too. [_Build a streak!_](https://open.buffer.com/build-strong-habits-apps-tools/)
 
 ----
 
-## Learning about Learning
+## Activities
 
-[_Fixed vs Growth: The Two Basic Mindsets That Shape Our Lives_](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) will start you on a path of discovery about [_Mindset: The New Psychology of Success_ by Dr Carol Dweck](http://amzn.to/1S2KjBu), which is a very hot topic in developmental psychology at the moment.
+### 1. Learning about Learning
+
+[_Fixed vs Growth: The Two Basic Mindsets That Shape Our Lives_](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) will start you on a path of discovery about Dr Carol Dweck and the affect of one's mindset on learning, which is a very hot topic in developmental psychology at the moment. Just _knowing_ about the theory improves learning outcomes, it seems.
 
 Knowing a little about [Top-Down vs Bottom-Up Design](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design), specifically [as it relates to software development](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design#Software_development) and [as applied to programming](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design#Programming), along with [Human Learning Styles](https://en.wikipedia.org/wiki/Learning_styles) will help you to identify the way _your_ brain intakes and processes information. Keep in mind that [the "learning style" debate still wages on](http://www.npr.org/sections/health-shots/2011/08/29/139973743/think-youre-an-auditory-or-visual-learner-scientists-say-its-unlikely).
 
-## GitHub-ing to Know You
+_Read all the above linked articles before continuing._ You can feel free to come back to the information when you need it.
+
+### 2. GitHub-ing to Know You
 
 If you haven't already, [create a GitHub account](http://github.com/signup) (or use your existing one) and [edit your GitHub profile](https://github.com/settings/profile) to include:
 
@@ -81,7 +76,7 @@ If you haven't already, [create a GitHub account](http://github.com/signup) (or 
 
 [_Star the class project_](https://help.github.com/articles/about-stars/) and read through [the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki).
 
-## You've Got Issues
+### 3. You've Got Issues
 
 [Create an Issue in the class repo (this one)](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new) and name it `00 -- YOUR NAME`, where `YOUR NAME` is, y'know... _your name._ As in, your _real name that you want to be called._ If you copy and paste the checklist from [the **Tasks** section below](#tasks) into the **Description** of your issue _as is_, you should end up with a bunch of checkboxes thanks to [the way that GitHub interprets text](https://guides.github.com/features/mastering-markdown/). As you complete parts of the assignment, check off the corresponding checkboxes and [watch your progress bar fill!](//github.com/TIY-Durham/2016-SPRING-FEE/issues)
 
@@ -89,9 +84,9 @@ _**Important!** This task list should be **complete** by the first day of class!
 
 Congratulations! This is your first _Work-In-Progress (WIP) Issue_, and you'll create another like it for each Assignment during the course. For more on that process, check out [_About Assignments_ in the class wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/About-Assignments), and for more practice with GitHub Issues, read and work through [the "Mastering Issues" GitHub Guide](https://guides.github.com/features/issues/), included in the [_Source Control Crash Course_ section](#source-control-crash-course).
 
-When you're done, answer the following questions in comments on your _WIP Issue_:
+#### 3a. How about a nice game of 20 questions?
 
-#### 20 questions
+Answer the following questions in comments on your _WIP Issue_:
 
 * What is the best way to ask a question?
 * How can you explicitly schedule time with your instructor to review a problem?
@@ -110,7 +105,9 @@ When you're done, answer the following questions in comments on your _WIP Issue_
 * Do you consider yourself a top-down or bottom-up thinker and why?
 * What do you think about your "learning style" and the debate about their validity? Which would you categorize yourself as and why?
 
-## INSTALLFEST!
+_And yes, you're right, [that's not how 20 Questions goes](https://en.wikipedia.org/wiki/Twenty_Questions)._
+
+### 4. INSTALLFEST!
 
 Throughout the course, we'll be using a lot of tools, some of them on day 1. Installing applications and developer tools on your computer will become an essential part of your life as a developer, so let's get some practice. Install the following applications, preferably through the App Store:
 
@@ -124,7 +121,7 @@ _If you're completely new to Mac and still a little fuzzy on installing applicat
 
 Run each application and [take a screenshot](https://support.apple.com/en-us/HT201361) of the "About" window. You'll find that under the application name in the menu bar. [Attach each image to your _WIP Issue_](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/) in a separate comment.
 
-### Dev Tools are Weird
+#### 4a. Dev Tools are Weird
 
 Next we'll [install some developer tools](INSTALLFEST.md) but using `Terminal.app` instead of the App Store. These steps are a little weirder than normal installations, so follow [the more detailed instructions](INSTALLFEST.md) and come back.
 
@@ -132,19 +129,68 @@ _Don't skip over the last step!_
 
 Feel free to start over if you need the practice, but when you're done, run `brew list` in your `Terminal.app` window and make sure you can see all of the tools on the install list. Take a screenshot of that list and attach it to your _WIP Issue_ again.
 
-### Prezto Change-oh!
+#### 4b. Prezto Change-oh!
 
 One of the tools we'll frequently use in class is [Prezto](https://github.com/sorin-ionescu/prezto), which makes `Terminal.app` much easier to use. Installation isn't as straight-forward as for the _other_ dev tools, and you'll need some of them for this to work, so make sure you've got your dev tools installed before you [follow the step-by-step for Prezto](PREZTO.md).
 
 When you're done, _take a screenshot of your `Terminal.app` screen_ and attach it to your _WIP Issue_. It should look vaguely like this example:
 
-![sorin@krustyroo](https://camo.githubusercontent.com/612c6be742478221e06c64b66b896085f6e4af63/687474703a2f2f692e696d6775722e636f6d2f6e7247563670672e706e67)
+![example: sorin@krustyroo](https://camo.githubusercontent.com/612c6be742478221e06c64b66b896085f6e4af63/687474703a2f2f692e696d6775722e636f6d2f6e7247563670672e706e67)
 
 Although with only [minimal flair](https://vimeo.com/102830089)...
 
+### Checklist: Activities
+
+As directed in [_You've Got Issues_](#youve-got-issues), copy the text in the grey box below and paste into the "Description" field of a new Issue in GitHub to get a nice, interactive checklist of tasks related to your **Activities**. Check them off as you complete each so show us your progress!
+
+```markdown
+* [ ] **1. Learning about Learning**
+  * [ ] Read [Fixed vs Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+  * [ ] Read [Top-Down vs Bottom-Up Design](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design)
+  * [ ] Read [Learning Styles](https://en.wikipedia.org/wiki/Learning_styles) and researched more...
+  * [ ] Read [why that is all bunk](http://www.npr.org/sections/health-shots/2011/08/29/139973743/think-youre-an-auditory-or-visual-learner-scientists-say-its-unlikely) and researched more...
+* [ ] **2. GitHub-ing to Know You**
+  * [ ] [Created a GitHub account](https://github.com/signup)
+  * [ ] [Edited your GitHub profile](https://github.com/settings/profile) to provide:
+    * [ ] A picture, so we can recognize your face.
+    * [ ] Your full name, so we can recognize your name.
+    * [ ] A valid public email address, so we can contact you.
+  * [ ] Found and starred [the class project](https://github.com/TIY-Durham/2016-SPRING-FEE)
+  * [ ] Read [the class wiki](https://github.com/TIY-Durham/2016-SPRING-FEE/wiki)
+* [ ] **3. You've Got Issues**
+  * [ ] [Created a new *WIP Issue*](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new)
+  * [ ] Named it `00 -- YOUR NAME` (where `YOUR NAME` is _your_ name)
+  * [ ] Made this checklist the description of your _WIP Issue_
+  * [ ] Started checking off boxes... :astonished:
+  * [ ] **3a.** Answered _all those many questions_ in comments
+* [ ] **4. INSTALLFEST!**
+  * [ ] From the App Store:
+    * [ ] [Google Chrome](http://google.com/chrome)
+    * [ ] [Atom](http://atom.io)
+    * [ ] [Dash](http://kapeli.com/dash)
+    * [ ] [Slack](http://www.slack.com)
+    * [ ] [SourceTree](https://www.sourcetreeapp.com/)
+ * [ ] **4a. Dev Tools are Weird**
+  * [ ] XCode Tools (CLI)
+  * [ ] Homebrew AKA `brew`
+  * [ ] Via `brew`:
+    * [ ] `git`
+    * [ ] `tree`
+    * [ ] `zsh`
+    * [ ] `node`
+    * [ ] `ruby`
+* [ ] **4b. Prezto Change-oh!**
+  * [ ] Found and forked the Prezto project on GitHub
+  * [ ] Cloned your fork of Prezto into your home directory
+  * [ ] Linked all the _dotfiles_ into your home directory
+  * [ ] Confirmed operation!
+  * [ ] Edited `.zpreztorc` to add modules
+  * [ ] Added a screenshot to your _WIP Issue_
+ ```
+
 ----
 
-## Time to [Jazzercise](https://www.youtube.com/watch?v=Tgxvza2yhFw)! Wait, no... Not that.
+## Exercises: Time to [Jazzercise](https://www.youtube.com/watch?v=Tgxvza2yhFw)! Wait, no... Not that.
 
 _**Remember:** Perform these exercises regularly in a routine to maximize your effectiveness!_
 
@@ -200,65 +246,27 @@ You might notice by now that GitHub does something funny with the text that you 
 
 ## Just before you come to class...
 
-![ohai](https://i.chzbgr.com/full/6062171648/hC535AB00/)
-
-Look, you found the secret _hidden_ section!
+Look, you found [the secret _hidden_ section](https://i.chzbgr.com/full/6062171648/hC535AB00/)!
 
 So you've filled your brain with JavaScript, HTML, CSS, and more GitHub than any person should reasonably have been asked to do. Great.
 
 Please answer the following questions in short essay form. Try to keep each answer to 200-500 words (3-5 paragraphs) and no more. Don't worry about grammar or spelling -- use this time to reflect on yourself and your upcoming adventure!  
 
-Submit your answers as a comment on your _WIP Issue_ or, if you're feeling adventurous, you can [start journaling on directly on GitHub](https://guides.github.com/features/pages/). Either way...
+**Submit your answers as a comment on your _WIP Issue_:**
 
 1. What difficulties do you predict that you will encounter during our course? How have you reacted to similar situations in the past? How do you plan on reacting to these situations during the class?
 1. Which part of this Assignment did you like the MOST? Which part did you like the LEAST? What did you find confusing or frustrating?
 
+## Extracurricular Activities
+
+There are two books that I suggest you start reading. They're both avaialble in digital format on various devices, and they're both relatively easy reads:
+
+* [_Getting Things Done_ by David Allen](http://j.mp/134jABk) -- The book that spawned [an entire genre of self-help literature](http://gettingthingsdone.com/) and [software tools](http://gettingthingsdone.com/common-tools-software/). The technique is the important part, and it's pretty simple.
+* [_Pragmatic Thinking and Learning_ by Andy Hunt](http://j.mp/1D5nmu8) -- A whirlwind survey of the psychology and neuroscience of learning and skill acquisition from the perspective of a programmer.
+
 ## Tasks
 
 ```markdown
-* [ ] **Learning about Learning**
- * [ ] Read [Fixed vs Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
- * [ ] Read [Top-Down vs Bottom-Up Design](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design)
- * [ ] Read [Learning Styles](https://en.wikipedia.org/wiki/Learning_styles) and researched more...
- * [ ] Read [why that is all bunk](http://www.npr.org/sections/health-shots/2011/08/29/139973743/think-youre-an-auditory-or-visual-learner-scientists-say-its-unlikely) and researched more...
-* [ ] **GitHub-ing to Know You**
- * [ ] [Created a GitHub account](https://github.com/signup)
- * [ ] [Edited your GitHub profile](https://github.com/settings/profile) to provide:
-  * [ ] A picture, so we can recognize your face.
-  * [ ] Your full name, so we can recognize your name.
-  * [ ] A valid public email address, so we can contact you.
- * [ ] Found and starred [the class project](https://github.com/TIY-Durham/2016-SPRING-FEE)
- * [ ] Read [the class wiki](https://github.com/TIY-Durham/2016-SPRING-FEE/wiki)
-* [ ] **You've Got Issues**
- * [ ] [Created a new *WIP Issue*](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new)
- * [ ] Named it `00 -- YOUR NAME` (where `YOUR NAME` is _your_ name)
- * [ ] Made this checklist the description of your _WIP Issue_
- * [ ] Started checking off boxes... :astonished:
- * [ ] Answered _all those many questions_ in comments
-* [ ] **INSTALLFEST!**
-  * [ ] Installed:
-    * [ ] [Google Chrome](http://google.com/chrome)
-    * [ ] [Atom](http://atom.io)
-    * [ ] [Dash](http://kapeli.com/dash)
-    * [ ] [Slack](http://www.slack.com)
-    * [ ] [SourceTree](https://www.sourcetreeapp.com/)
- * [ ] [Installed Developer Tools](INSTALLFEST.md)
-  * [ ] XCode Tools (CLI)
-  * [ ] Homebrew AKA `brew`
-  * [ ] Via `brew`, installed:
-   * [ ] `zsh`
-   * [ ] `git`
-   * [ ] `hub`
-   * [ ] `node`
-  * [ ] Add the output of the following commands as comments on your *WIP Issue*:
-    * [ ] `which zsh && zsh --version`
-    * [ ] `which git && git --version`
-    * [ ] `which hub && hub --version`
-    * [ ] `which node && node --version`
-* [ ] **Prezto Change-oh!**
- * [ ] Find and _fork_ the Prezto project on GitHub
- * [ ] Clone _your fork_ of Prezto into your home directory
- * [ ] Follow the installation instructions in the `README.md` file
 * [ ] **Send all my GitHub to you...**
  * [ ] Learn all you can about `git` and GitHub!
    * Treehouse has [a Git Basics course](http://teamtreehouse.com/library/git-basics)
