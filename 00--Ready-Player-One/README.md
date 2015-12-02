@@ -1,12 +1,18 @@
 # 00 -- Ready Player One
 
-Like we said in [the introduction](../README.md), _learning a technical skill from watching videos and answering questions is very difficult_. The initial inertia of new [Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), however, is only overcome through _repeated exposure_. To that end, many of these pre-class activities are **Exercises** and are best applied in a regimen: _spend an hour or more a day getting as far through each of them as you can._
+Like we said in [the introduction](../README.md), _learning a technical skill from watching videos and answering questions is very difficult_. The initial inertia of new [Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), however, is only overcome through _repeated exposure_. _Throughout the course, we'll refer to the coursework as either **Activities** and **Exercises**_.
 
-The real magic happens when _you start over from the beginning each time_ and watch your progress extend on each pass. _There's a lot of work in here_, and some of you have less time than others. Take as much time as you can afford.
+**Activities** just need some application of effort, a few checkboxes, and they're done. There's not a lot of value in repeating them, but you should if you feel that you missed something or didn't get all the steps right. These are the types of tasks that just need to get done, so _just do them._
 
-_**Resist the temptation to perfect just one thing!**_
+**Exercises** are best applied in a regimen: _spend an hour or more a day getting as far through each of them as you can._ The real magic happens when _you start over from the beginning each time_ and _watch your progress extend_ on each pass. Just like exercising your muscles in a gym, the repetitive-but-delayed effort makes you stronger.
 
-That's not really what the class is like, and you'll cheat yourself in the end. Spend as much time as you can with _everything on the list_.
+You'll find [a checklist for **Activities**](#checklist-activities) and [another for **Exercises**](#checklist-exercises) to help guide you along the way. Additionally, keep in mind:
+
+* **There's a lot of work in here!** So take as much time as you can afford and pace yourself! There's [some advice on _The Iterative Process_ in the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/The-Iterative-Process) that can help...
+* **Resist the temptation to perfect just one thing!** That's not really what the class is like, and you'll cheat yourself in the end. Spend as much time as you can with _everything_.
+* **Space out your practice!** One of the most effective ways for you to learn is to put some distance between your sessions. _Don't try to tackle everything in one sitting!_
+* **Effortful learning is slower but more durable!** If you find yourself getting stuck somewhere, _put the work down_ and come back later. You're learning, and that takes some time.
+* **Reflect on your progress daily!** We've provided [a format for daily reflection](#reflective-journal-best-taken-daily) to help overcome any writer's block. _Reflection on your progress is one of the most valuable aids to learning._
 
 _**Important!** If you're new to Mac, not a typist, or just always wondered what the internet was made of, [start with "Back to Basics" in the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics)._
 
@@ -14,11 +20,11 @@ _**Important!** If you're new to Mac, not a typist, or just always wondered what
 
 These activities are more like "won and done" events. They might take a while to accomplish, but re-doing them doesn't really have massive value. Just follow the instructions and get to the finish line. If you get stuck or need a re-do, there are instructions included on how to restart.
 
-* First, [a little light reading](#learning-about-learning)... and some writing to warm you up.
-* [GitHub-ing to Know You](#github-ing-to-know-you) is how we get acquainted... and how you get to know GitHub!
-* [You've Got Issues](#youve-got-issues)... well, [you will](//github.com/issues) after _this_. _Please don't create duplicate Issues for yourself!_
-* Better than a drunken outdoor music concert, it's your first [InstallFest!](#installfest)
-* And if you wanted a marathon version of that, [install and configure Prezto](#prezto-change-oh) on your computer.
+* First, [learn about learning](#activity-learning-about-learning)... Very meta.
+* [GitHub-ing to Know You](#activity-github-ing-to-know-you) is how we get acquainted... and how you get to know GitHub!
+* [You've Got Issues](#activity-youve-got-issues)... well, [you will](//github.com/issues) after _this_. _Please don't create duplicate Issues for yourself!_
+* Better than a drunken outdoor music concert, it's your first [InstallFest!](#activity-installfest)
+* And if you wanted a marathon version of that, [install and configure Prezto](#activity-prezto-change-oh) on your computer.
 
 ### Exercises: Rinse, Lather, Repeat...
 
