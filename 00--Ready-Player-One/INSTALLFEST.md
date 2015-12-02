@@ -9,6 +9,15 @@ Ready to be a developer? It's dangerous to go alone... Take these!
   1. Run `brew doctor` to ensure everything works!
   1. Call for help if it doesn't!
 1. [Use `brew install`...](#step-3-use-brew-install)
+  * `git`
+  * `tree`
+  * `zsh`
+  * `node`
+  * `ruby`
+1. [Configure `git`](#step-4-configure-git):
+  1. your name and email address
+  1. where to store your password
+  1. which editor to use: Atom!
 
 ## Step 1: [Install XCode](https://developer.apple.com/xcode/download/)
 
@@ -45,7 +54,7 @@ There are a couple of ways to do that. First, you can [check that any command ex
     $> which brew
     /usr/local/bin/brew
 
-If you get something _different_, you might not have installed _something_ -- XCode or the XCode CLI tools or even Homebrew itself -- correctly. Skip ahead to **Step 2d** for help. 
+If you get something _different_, you might not have installed _something_ -- XCode or the XCode CLI tools or even Homebrew itself -- correctly. Skip ahead to **Step 2d** for help.
 
 ### Step 2c: And that it works correctly...
 
@@ -65,10 +74,56 @@ Chances are high that you _won't_ encounter difficulty, but if you do, you can [
 
 * `git`
 * `zsh`
+* `tree`
 * `node`
 * `ruby`
 
-Test that each of these is installed correctly by running `which` on each of them, just like we did for `brew`. You should get ouput that starts with `/usr/local/bin/` and ends with the command name, e.g. `/usr/local/bin/git`. Finally, run `brew list` and [take a screenshot](https://support.apple.com/en-us/HT201361) of the result, which should list all of those _packages_ we just installed. Attach that screenshot to your _WIP Issue_ and you're ready to [install and configure Prezto](PREZTO.md)!
+Test that each of these is installed correctly by running `which` on each of them, just like we did for `brew`. You should get ouput that starts with `/usr/local/bin/` and ends with the command name, e.g. `/usr/local/bin/git`. Finally, run `brew list` and [take a screenshot](https://support.apple.com/en-us/HT201361) of the result, which should list all of those _packages_ we just installed. Attach that screenshot to your _WIP Issue_.
+
+## Step 4: Configure `git`...
+
+Now that we have `git` installed via `brew` -- _XCode actually installs its own version that we have no ability to upgrade; boo, Apple_ -- we should tell `git` all about us, so it can tell GitHub who we are when we start using it. Let's [use the `git` command to configure `git`](http://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)!
+
+### 1a. Tell `git` your name and email address...
+
+The first thing `git` needs to know is _who you are_ and _how to identify you_, which it does with two configuration settings: `user.name` and `user.email`. Set those with the `git` command:
+
+    $> git config --global user.name "YOUR NAME"
+    $> git config --global user.email "YOUR-EMAIL@EXAMPLE.COM"
+
+This tells `git` to attach `YOUR NAME` and `YOUR-EMAIL@EXAMPLE.COM` to all your work on your computer. Well, that's _almost_ right. Run those commands again, replacing `YOUR NAME` with your real name, the same one [you added to your GitHub account](README.md#github-ing-to-know-you). Do the same with your _real_ email address. To confirm, simply run:
+
+    $> git config --global --get-regexp user
+
+If you don't see what you expected, try again. If you run into an error message along the lines of `Fatal: Not a git respository`, you probably omitted the `--global` flag.
+
+### 1b. Tell `git` where to store your password...
+
+When we start using `git` to send code to GitHub, you'll have to identify yourself to GitHub with the username and password you used when you created your account. Having to type that a lot can be very tedious (but occasionally helpful!), so let's tell `git` how to keep your password around securely:
+
+    $> git config --global credential.helper osxkeychain
+
+Mac OS X includes [a secure password manager called `Keychain.app`](https://en.wikipedia.org/wiki/Keychain_(software)) that `git` can use to store your password and send it to GitHub for you.
+
+### 1c. Tell `git` which editor to use...
+
+So `git` is a Command Line Interface (CLI), right? On its own, `git` doesn't know anything about GUI tools like Atom, so when it needs you to write a long message or edit a file, it opens up a CLI editing tool like `vim` or `nano`... at least by default. Let's tell it about our new friend Atom, though, since we're going to be spending so much time there:
+
+    $> git config --global core.editor "atom -w"
+
+Don't forget the quotes! Like before, we can check all of these setting by using `git config` again. This time, we'll look at _the whole list_:
+
+    $> git config --global --list
+
+Make sure your changes are in there: `user.name`, `user.email`, `credential.helper`, and `core.editor`...! To test that our editor is setup correctly, we can just ask `git` to open [the global configuration file](http://git-scm.com/docs/git-config#FILES) in Atom:
+
+    $> git config --global --edit
+
+If that _doesn't_ open a rather strange looking file in Atom (be patient, it can take a few seconds), _Don't Panic!_ If you're in `nano` (the name `nano` will appear in the top bar), press `^X` (that's the `control` key plus the `X` key) to quit. If you're in `vi` or `vim` (basically a screen full of text), press `ZZ` (that's `shift` plus the `Z` key twice).
+
+Welcome to Atom and the _other_ way to configure `git`! The file you're looking at is [a hidden file](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory) named `.gitconfig` that lives in [your home directory](https://en.wikipedia.org/wiki/Home_directory). If you [open your Home folder in Finder](https://support.apple.com/kb/PH22031?locale=en_US&viewlocale=en_US), you won't see it -- because it's _hidden_ -- but the file is still there.
+
+You can poke around with your `.gitconfig` file if you want, but make sure that the settings we configured are correct before you save and close. You're ready to [install and configure Prezto](PREZTO.md) next, which will involve poking around some _more_ of those hidden files with Atom!
 
 ## One Final Warning
 
