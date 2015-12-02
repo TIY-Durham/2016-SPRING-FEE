@@ -1,6 +1,6 @@
 # 00 -- Ready Player One
 
-Like we said in [the introduction](../README.md), _learning a technical skill from watching videos and answering questions is very difficult_. The initial inertia of new [Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), however, is only overcome through _repeated exposure_. _Throughout the course, we'll refer to the coursework as either **Activities** and **Exercises**_.
+Like we said in [the introduction](../README.md), _learning a technical skill from watching videos and answering questions is very difficult_. The initial inertia of new [Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), however, is only overcome through _repeated exposure_. _Throughout the course, we'll refer to the coursework as either **Activities** or **Exercises**_.
 
 **Activities** just need some application of effort, a few checkboxes, and they're done. There's not a lot of value in repeating them, but you should if you feel that you missed something or didn't get all the steps right. These are the types of tasks that just need to get done, so _just do them._
 
@@ -56,7 +56,7 @@ It's important that you keep up with this journal, even if you don't get _any_ t
 
 ----
 
-## Activities
+## Activities -- Just Do It
 
 ### 1. Learning about Learning
 
@@ -78,11 +78,11 @@ If you haven't already, [create a GitHub account](http://github.com/signup) (or 
 
 ### 3. You've Got Issues
 
-[Create an Issue in the class repo (this one)](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new) and name it `00 -- YOUR NAME`, where `YOUR NAME` is, y'know... _your name._ As in, your _real name that you want to be called._ If you copy and paste the checklist from [the **Tasks** section below](#tasks) into the **Description** of your issue _as is_, you should end up with a bunch of checkboxes thanks to [the way that GitHub interprets text](https://guides.github.com/features/mastering-markdown/). As you complete parts of the assignment, check off the corresponding checkboxes and [watch your progress bar fill!](//github.com/TIY-Durham/2016-SPRING-FEE/issues)
+[Create an Issue in the class repo (this one)](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new) and name it `00 -- YOUR NAME`, where `YOUR NAME` is, y'know... _your name._ As in, your _real name that you want to be called._ If you copy and paste the checklist from [the **Checklist** section below](#checklist-activities) into the **Description** of your issue _as is_, you should end up with a bunch of checkboxes thanks to [the way that GitHub interprets text](https://guides.github.com/features/mastering-markdown/). As you complete parts of the assignment, check off the corresponding checkboxes and [watch your progress bar fill!](//github.com/TIY-Durham/2016-SPRING-FEE/issues)
 
 _**Important!** This task list should be **complete** by the first day of class!_
 
-Congratulations! This is your first _Work-In-Progress (WIP) Issue_, and you'll create another like it for each Assignment during the course. For more on that process, check out [_About Assignments_ in the class wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/About-Assignments), and for more practice with GitHub Issues, read and work through [the "Mastering Issues" GitHub Guide](https://guides.github.com/features/issues/), included in the [_Source Control Crash Course_ section](#source-control-crash-course).
+Congratulations! This is your first _Work-In-Progress (WIP) Issue_, and you'll create another like it for each Assignment during the course. For more on that process, check out [_About Assignments_ in the class wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/About-Assignments), and for more practice with GitHub Issues, read and work through [the _Mastering Issues_ GitHub Guide](https://guides.github.com/features/issues/) included in the [_Source Control Crash Course_ section](#4-source-control-crash-course).
 
 #### 3a. How about a nice game of 20 questions?
 
@@ -125,11 +125,9 @@ Run each application and [take a screenshot](https://support.apple.com/en-us/HT2
 
 Next we'll [install some developer tools](INSTALLFEST.md) but using `Terminal.app` instead of the App Store. These steps are a little weirder than normal installations, so follow [the more detailed instructions](INSTALLFEST.md) and come back.
 
-_Don't skip over the last step!_
+**Don't skip over the last step!** Feel free to start over if you need the practice, but when you're done, run `brew list` in your `Terminal.app` window and make sure you can see all of the tools on the install list. Take a screenshot of that list and attach it to your _WIP Issue_ again.
 
-Feel free to start over if you need the practice, but when you're done, run `brew list` in your `Terminal.app` window and make sure you can see all of the tools on the install list. Take a screenshot of that list and attach it to your _WIP Issue_ again.
-
-#### 4b. Prezto Change-oh!
+### 5. Prezto Change-oh!
 
 One of the tools we'll frequently use in class is [Prezto](https://github.com/sorin-ionescu/prezto), which makes `Terminal.app` much easier to use. Installation isn't as straight-forward as for the _other_ dev tools, and you'll need some of them for this to work, so make sure you've got your dev tools installed before you [follow the step-by-step for Prezto](PREZTO.md).
 
@@ -141,7 +139,7 @@ Although with only [minimal flair](https://vimeo.com/102830089)...
 
 ### Checklist: Activities
 
-As directed in [_You've Got Issues_](#youve-got-issues), copy the text in the grey box below and paste into the "Description" field of a new Issue in GitHub to get a nice, interactive checklist of tasks related to your **Activities**. Check them off as you complete each so show us your progress!
+As directed in [_You've Got Issues_](#3-youve-got-issues), copy the text in the grey box below and paste into the _Description_ field of a new Issue in GitHub to get a nice, interactive checklist of tasks related to your **Activities**. Check them off as you complete each to show us your progress!
 
 ```markdown
 * [ ] **1. Learning about Learning**
@@ -229,17 +227,15 @@ In this class, we're going to use the Command Line Interface (CLI) _a lot_.
 * Which leads us to [the _CLI Crash Course_ by Zed Shaw](http://cli.learncodethehardway.org/book/), which isn't as scary as it sounds, just very weird.
 * [Team Treehouse also has a CLI course](https://teamtreehouse.com/library/console-foundations) for additional practice.
 
-Unless you have lots of experience with [pre-web internet](https://en.wikipedia.org/wiki/Category:Pre%E2%80%93World_Wide_Web_online_services), you probably didn't do a lot of [typing to tell your computer to do things](https://en.wikipedia.org/wiki/Text-based_user_interface), but it's really quite efficient. [You may need some practice with typing first](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics), but don't wait until you're _really fast at typing_ to tackle the command line!
+Unless you have lots of experience with [pre-web internet](https://en.wikipedia.org/wiki/Category:Pre%E2%80%93World_Wide_Web_online_services), you probably didn't do a lot of [typing to tell your computer to do things](https://en.wikipedia.org/wiki/Text-based_user_interface), but it's really quite efficient. [You may need some practice with typing first](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics#mavis-beacon-teaches-programming), but _don't wait until you're really fast at typing_ to tackle the command line! Typing commands _is_ practice typing, after all...
 
 ### 4. Source Control Crash Course
 
-[Source Control](https://en.wikipedia.org/wiki/Source_Code_Control_System) -- and specifically `git` -- is a rather weird concept. GitHub -- a website for sharing code between developers -- is a tool we'll use very heavily in the class and is highly respected in the industry. _Learn all you can about the `git` command and GitHub!_
-
-It will be _weird!_ It will be _fun!_ It will _cause your brain to hurt!_
+[Source Control](https://en.wikipedia.org/wiki/Source_Code_Control_System) -- and specifically `git` -- is a rather weird concept. GitHub -- a website for sharing code between developers -- is a tool we'll use very heavily in the class and is highly respected in the industry. _Learn all you can about the `git` command and GitHub!_ It will be _weird!_ It will be _fun!_ It will _cause your brain to hurt!_
 
 #### 4a. First there was `git`...
 
-You should start with
+You should start with:
 
 * [trying `git`](http://try.github.com), which isn't really how we'll be using in in class, but kinda gets you over the initial weirdness.
 * [Team Treehouse has a course on `git` basics](https://teamtreehouse.com/library/git-basics)
