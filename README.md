@@ -1,29 +1,32 @@
 ## Hello and welcome to Front End Engineering!
 
-Hi, everyone! I'm David Rogers, and I'm the new Front-End Instructor for the Durham campus. I've been teaching FEE for The Iron Yard since September 2014, when I helped launch the campus in Orlando, and now my family and I are moving to Durham so I can teach here.
+Congratulations on being selected for the Spring 2016 cohort of The Iron Yard, and welcome to the class. This is an intense program, and [Kelly and I](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Syllabus#your-instructors) are really looking forward to meeting each of you in person and getting to know you better over the course of the upcoming 12 weeks. We're also really excited about teaching and mentoring you all, seeing what awesome things you'll build and what interesting ways you'll approach the assignments and projects in the class.
 
-Kelly and I are really looking forward to meeting each of you in person and getting to know you better over the course of the upcoming 12 weeks. We're also really excited about teaching and mentoring you all, seeing what awesome things you'll build and what interesting ways you'll approach the assignments and projects in the class.
+### About the Class
 
-### Please complete the prep-work below _before class on Monday_...
+If you're the type who wants to know where you're going before you leave, then likely you'll want to [read the syllabus first](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Syllabus), which lays out the basic roadmap of the class. Details are intentionally withheld, as the pacing of the class and material is very dependent on you, the students.
 
-You should have received a pre-class assignment from Chris, and it's important that you **finish that work before class on Monday.** The assignment that I give isn't significantly different, _but the turn-in instructions are._ They're designed to get you ready for the in-class routine and how _all_ your assignments will be submitted. _Please take the time to complete it!_
+Here's a cold reality many of you already realize from your own experience: _it's very difficult to learn a technical skill like programming from just watching videos and answering questions_. There's an additional reality: _it's also very difficult in a short amount of time_. Wait, what? Isn't that what you're coming to us for? Well... Yes, but no.
 
-First, you need to [sign up for a free GitHub account](http://github.com/signup), **find [the class project](https://github.com/TIY-Durham/2015-FALL-FEE) and "star" it** ([more on "starring" and notifications](https://help.github.com/articles/about-stars)). Once you do, I'll invite you to [a group for our class](https://github.com/orgs/TIY-Durham/teams/2015-fall-fee), so watch for an email from GitHub!
+Learning -- the productive acquisition of practicable skill -- comes slowly in fits and spurts, but a period of highly focused attention on the practice and development of a skill can allow you to make great leaps of progress. _That_ is what this is: _a highly focused period of intense, immersive activity_. It's exciting, exhausting (even for us instructors), and empowering. However, in order to be most successful, you need to be _primed_ for that experience.
 
-Afterward, please take some time to **perform the few additional steps in [the prep-work assignment: `00 -- Ready Player One`](https://github.com/TIY-Durham/2015-FALL-FEE/blob/master/00--Ready-Player-One)**. You may have already done this, if you've completed the assignment that Chris gave you; this important step will create a "flag in the sand" for us to discuss GitHub on Monday. _Please put that flag in the sand for us!_
+#### I assume that you already know...
 
-Next, get acquainted by poking around a bit, _paying special attention to [the class wiki](https://github.com/TIY-Durham/2015-FALL-FEE/wiki)_. There's some important information there about how to turn in assignments, how we'll grade them, and rules of conduct for the class. Throughout the course, I'll be adding files to the repository to distribute assignments, notes for each class, and general information about the course. You'll open, close, and contribute to Issues and Pull Requests ([more about "issues" on GitHub](https://help.github.com/articles/about-issues)) to turn in assignments and show your work.  By the end, you'll all be GitHub experts!
+* **...how to use your Mac.** -- You can easily find files, navigate through folders, delete things, install and open programs, and perform the appropriate actions with those programs. If this does _not_ describe you, [start with "Back to Basics"](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/Back-to-Basics).
+* **...how to use a browser (like Google Chrome).** -- You can navigate through web pages and sites, perform searches with Google or similar, and fill out forms on the internet. How else did you apply for this class, after all?
+* **...how to perform meaningful, productive research.** -- Given a topic that you're unfamiliar with, you can use your favorite search engine, library, or network of peers to discover accurate information about the topic. You may even be able to perform meta-research -- _research about research_ -- on a topic to find out what others are looking for and discover the validity of your own questions.
+* **...how to enumerate the steps of a problem and solution.** -- Presented with a problem, you can -- to various degrees of detail and success -- generate a list of steps that describe the problem and several potential solutions. If you gave those steps to another reasonable person, that person could probably follow them to fulfill the solution.
+* **...how to follow a sequence of steps to reproduce a problem or solution.** -- Given a sequence of steps, you can follow them carefully and conscientiously to completion, producing similar results. This manifests in many different areas: baking (moreso than just cooking), mechanical repair, craftsmanship (moreso than artistry), farming or gardening.
+* **...how to read and write basic HTML and CSS.** -- Given explicit direction, you can reproduce a given design with 60% or more accuracy. There are probably lots of questions remaining about _why_ you were told to use X or do Y, but you know what "a tag" means and how to apply "styles" to one.
 
-I know there's not a lot of time before class starts; Kelly and I are working hard to get everything ready for you. I can't wait...
+If any of these skills are a struggle for you, that doesn't mean that you'll be a horrible developer. These aren't prerequisites for being a successful developer, just potential limitations in an environment as fast-paced as this one. If there's something in this list that scares you, ask us. Chances are we have some resources that you can use to get up to speed on one or more of these topics.
 
-###### David | http://al-the-x.me
+### Priming the Pump
 
-* GitHub: [@al-the-x](https://github.com/al-the-x)
-* Twitter: [@al_the_x](https://twitter.com/al_the_x)
-* LinkedIn: [althex](https://linkedin.com/in/althex)
+In order to be most successful in this (or any) course, your brain needs some _initial exposure_ to the terms and concepts that we're going to cover (very quickly) in class. You don't need a lot -- 20 hours _minimally_ but maybe 100 hours or so would be optimal -- and you don't need years of prior experience -- 30 to 90 days prior to class is sufficient.
 
-###### Kelly | 
+As a first step, [complete our prep-work assignment: `00 -- Ready Player One`](00--Ready-Player-One/README.md). This serves as [an initial gauge of your individual place in the learning process](https://en.wikipedia.org/wiki/Formative_assessment) and gets you the initial exposure you need to be successful on Day 1. _Please don't treat this (or any) assignment as a game level to be beaten_; your goal is not just to _complete_ the assignment _once_ but to fulfill the learning objectives by _becoming familiar with the material_.
 
-* GitHub: [@kellymurray](https://github.com/kellymurray)
-* Twitter: [@kellyemm](https://twitter.com/kellyemm)
-* LinkedIn: [kelly-murray](https://www.linkedin.com/pub/kelly-murray/96/538/83b)
+### The Day-to-Day
+
+Once the course begins, you'll use a similar process to submit assignments and demonstrate progress. Each assignment will be delivered as a `README.md` file in the appropriately numbered folder, and any code that we produce together in class will be in that folder alongside it. You'll be responsible for [opening an Issue in _this_ repo](//github.com/TIY-Durham/2016-SPRING-FEE/issues/new) and including links to your work for review. For details about that process, see [`About Assignments` in the wiki](//github.com/TIY-Durham/2016-SPRING-FEE/wiki/About-Assignments).
